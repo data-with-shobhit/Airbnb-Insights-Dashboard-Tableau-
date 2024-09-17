@@ -1,6 +1,14 @@
 # Airbnb Insights Data Visualization (Tableau)
 We are analyzing Airbnb dataset of New York City to draw interesting insights and address some questions.
 
+
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/aa8f380c-9418-4d6b-b1c1-98d19618ff85)
+
+
+
+
 ### Questions Addressed ?
 
 Which are the popular neighborhoods, their average prices and no. of listings.
