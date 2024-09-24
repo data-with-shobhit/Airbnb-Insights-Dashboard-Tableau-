@@ -1,7 +1,9 @@
 # Airbnb Insights Data Visualization (Tableau)
 We are analyzing Airbnb dataset of New York City to draw interesting insights and address some questions.
 
+### Problem Statement:
 
+Create an interactive Tableau dashboard for Airbnb that visualizes booking trends, pricing patterns, customer behavior, and property performance. The goal is to provide actionable insights to optimize business strategies and improve decision-making for Airbnb stakeholders.
 
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/aa8f380c-9418-4d6b-b1c1-98d19618ff85)
